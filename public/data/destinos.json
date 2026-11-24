@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "nombre": "Machu Picchu",
+    "ciudad": "Aguas Calientes",
+    "region": "Cusco",
+    "categoria": "Arqueológico",
+    "descripcion": "Antigua ciudadela inca ubicada en la cordillera de los Andes. Es uno de los destinos turísticos más representativos del Perú.",
+    "precioEntrada": 152,
+    "duracionVisita": "4 horas",
+    "imagen": "https://cdn.phototourl.com/anon/2026-11-19-a4a55ca2-02b2-40aa-af6c-d021f598bfbb.jpg",
+    "destacado": true
+  },
+  {
+    "id": 2,
+    "nombre": "Chan Chan",
+    "ciudad": "Trujillo",
+    "region": "La Libertad",
+    "categoria": "Arqueológico",
+    "descripcion": "Antigua ciudad de adobe construida por la cultura Chimú. Destaca por sus murallas y decoraciones arquitectónicas.",
+    "precioEntrada": 10,
+    "duracionVisita": "2 horas",
+    "imagen": "https://cdn.phototourl.com/anon/2026-11-19-e3eff1ad-3582-447a-883b-c5cf9b96b491.jpg",
+    "destacado": true
+  },
+  {
+    "id": 3,
+    "nombre": "Huacachina",
+    "ciudad": "Ica",
+    "region": "Ica",
+    "categoria": "Naturaleza",
+    "descripcion": "Oasis natural rodeado de grandes dunas de arena. Es conocido por sus actividades de aventura.",
+    "precioEntrada": 15,
+    "duracionVisita": "3 horas",
+    "imagen": "https://cdn.phototourl.com/anon/2026-11-19-1aae3136-a32a-412c-8500-837493d2be1b.jpg",
+    "destacado": true
+  },
+  {
+    "id": 4,
+    "nombre": "Lago Titicaca",
+    "ciudad": "Puno",
+    "region": "Puno",
+    "categoria": "Naturaleza",
+    "descripcion": "Lago navegable de gran altitud que alberga las famosas islas flotantes de los Uros.",
+    "precioEntrada": 20,
+    "duracionVisita": "5 horas",
+    "imagen": "https://cdn.phototourl.com/anon/2026-11-19-04624a9d-a852-48e8-844e-6fab5da96041.jpg",
+    "destacado": false
+  },
+  {
+    "id": 5,
+    "nombre": "Kuélap",
+    "ciudad": "Tingo",
+    "region": "Amazonas",
+    "categoria": "Arqueológico",
+    "descripcion": "Complejo arqueológico construido por la cultura Chachapoyas, conocido por sus grandes murallas de piedra.",
+    "precioEntrada": 30,
+    "duracionVisita": "4 horas",
+    "imagen": "https://cdn.phototourl.com/anon/2026-11-19-ff48bb32-dd33-4871-905a-d2d57004676d.jpg",
+    "destacado": true
+  },
+  {
+    "id": 6,
+    "nombre": "Cañón del Colca",
+    "ciudad": "Chivay",
+    "region": "Arequipa",
+    "categoria": "Naturaleza",
+    "descripcion": "Impresionante formación geográfica conocida por sus profundos paisajes y el avistamiento de cóndores.",
+    "precioEntrada": 20,
+    "duracionVisita": "6 horas",
+    "imagen": "https://cdn.phototourl.com/anon/2026-11-19-fb3dba6b-5e4b-475f-9f88-ec9cec7a5cb2.jpg",
+    "destacado": false
+  },
+  {
+    "id": 7,
+    "nombre": "Caral",
+    "ciudad": "Supe",
+    "region": "Lima",
+    "categoria": "Arqueológico",
+    "descripcion": "Complejo arqueológico perteneciente a una de las civilizaciones más antiguas de América.",
+    "precioEntrada": 11,
+    "duracionVisita": "3 horas",
+    "imagen": "https://cdn.phototourl.com/member/2026-11-19-d6c5083d-57a6-4111-87e1-21396dddeac4.jpg",
+    "destacado": false
+  },
+  {
+    "id": 8,
+    "nombre": "Parque Nacional Huascarán",
+    "ciudad": "Huaraz",
+    "region": "Áncash",
+    "categoria": "Naturaleza",
+    "descripcion": "Área natural protegida que alberga nevados, lagunas y una gran diversidad de flora y fauna.",
+    "precioEntrada": 30,
+    "duracionVisita": "5 horas",
+    "imagen": "https://cdn.phototourl.com/member/2026-11-19-54ca8fcb-0063-4bfe-b341-6569d30c947c.jpg",
+    "destacado": true
+  },
+  {
+    "id": 9,
+    "nombre": "Líneas de Nazca",
+    "ciudad": "Nazca",
+    "region": "Ica",
+    "categoria": "Arqueológico",
+    "descripcion": "Enormes geoglifos trazados sobre el desierto que representan figuras de animales y formas geométricas.",
+    "precioEntrada": 47,
+    "duracionVisita": "2 horas",
+    "imagen": "https://cdn.phototourl.com/member/2026-11-19-d94fffc3-7a78-4bf6-a1d0-2507a1363012.jpg",
+    "destacado": false
+  },
+  {
+    "id": 10,
+    "nombre": "Playa Punta Sal",
+    "ciudad": "Tumbes",
+    "region": "Tumbes",
+    "categoria": "Playa",
+    "descripcion": "Destino de playa conocido por sus aguas cálidas y paisajes costeros.",
+    "precioEntrada": 0,
+    "duracionVisita": "Día completo",
+    "imagen": "https://cdn.phototourl.com/member/2026-11-19-74d018fd-1daa-41f5-9051-0061576b9ea0.jpg",
+    "destacado": true
+  }
+]
